@@ -7,4 +7,5 @@
             -shape
 ## Summary
     One drawback of this new design is that there is no button to initiate the filter commandand two recommendations for further development is to add the button and create more distinct color changes in the filter table its self as shown below:
-    ![](static/images/mod11ch.png)
+    
+![](static/images/mod11ch.png)
